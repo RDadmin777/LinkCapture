@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <scope package="com.tencent.mm"/>
+    <scope package="com.tencent.mobileqq"/>
+    <scope package="com.eg.android.AlipayGphone"/>
+    <scope package="com.android.browser"/>
+    <scope package="com.android.chrome"/>
+</resources>
